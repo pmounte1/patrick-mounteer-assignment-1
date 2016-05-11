@@ -1,5 +1,5 @@
 .profile {
-   background: lightgray;
+
    padding: 10px;
    marging: 10px;
    text-align: center;
@@ -9,7 +9,7 @@
 
 
 html {
-background: url("http://farm2.staticflickr.com/1100/1471214453_f7677b7816_b.jpg") no-repeat center fixed;
+background: url("background.jpg") no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
